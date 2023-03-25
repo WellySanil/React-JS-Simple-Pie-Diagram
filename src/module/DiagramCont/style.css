@@ -1,0 +1,9 @@
+.DiagramCont-main{
+    background: #29292d;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
